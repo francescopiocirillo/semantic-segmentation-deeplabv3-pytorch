@@ -70,7 +70,7 @@ Obstacle:                0.57 IoU ⭐ (major improvement)
 Non-traversable Veg:     0.19 IoU (challenging class)
 ```
 
-## Dataset: Yamaha-CMU Off-Road (YCOR) Dataset
+## 🗃️ Dataset: Yamaha-CMU Off-Road (YCOR) Dataset
 This project utilizes the **Yamaha-CMU Off-Road Dataset**, originally introduced by Maturana et al. (2017) in their seminal work *"Real-time Semantic Mapping for Autonomous Off-Road Navigation"*. The dataset consists of 1,076 images collected across four locations in Western Pennsylvania and Ohio, spanning three seasons with 8 semantic classes identical to our classification scheme.
 
 ### Comparative Results vs. Original Research
@@ -133,7 +133,7 @@ Obstacle:                0.57 IoU ⭐ (+58% vs original 0.36)
 Non-traversable Veg:     0.19 IoU ⚠️ (-23% vs original 0.25)
 ```
 
-Final note: the authors of the original paper tried to optimize efficiency and speed, while we tried to optimized for accuracy (and in that we succeded). It is considered interesting for future research to compare the inference time of our model with that of the original paper.
+Final note: the authors of the original paper tried to optimize efficiency and speed, while we tried to optimized for accuracy (and in that we succeded). It is considered interesting for future research to compare the inference time of our model with that of the original paper using the same hardware.
 
 ## 📁 Project Structure
 
