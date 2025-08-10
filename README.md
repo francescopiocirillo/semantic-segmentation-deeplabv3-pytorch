@@ -27,6 +27,13 @@ This project develops a robust **semantic segmentation pipeline** for classifyin
 - **Class Imbalance Solved**: Rare classes (puddles, obstacles) improved from 0% to 56%+ IoU
 - **Fast Convergence**: 8-10 epochs to optimal performance
 
+🌍 Language Note
+----------------
+
+All **code comments and internal documentation** are written in **Italian**, as the project was developed during a group exam at the **University of Salerno (Italy)**.
+
+Despite this, the **codebase follows international best practices**, with clear method names and class structures that make it easily understandable for global developers and recruiters.
+
 ## 🔧 Technical Architecture
 
 ### Model Pipeline
