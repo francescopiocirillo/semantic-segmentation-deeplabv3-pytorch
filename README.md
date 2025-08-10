@@ -73,7 +73,25 @@ Non-traversable Veg:     0.19 IoU (challenging class)
 ## 📁 Project Structure
 
 ```
--
+📦 semantic-segmentation-deeplabv3-pytorch/  
+│  
+├── 📄 docs/ #  Documentation and reports  
+│ ├── 1_main_report_ENGLISH.pdf  
+│ ├── 2_experiments_list_ITALIAN.pdf  
+│ ├── 3_experiments_tree_ITALIAN.png  
+│ └── 4_presentation_ITALIAN.pdf  
+│  
+├── 📓 notebooks/
+│ ├── 1_training_validation_split_protocol.ipynb  
+│ ├── 2_training_script.ipynb  
+│ └── 3_testing_script.ipynb  
+│  
+├── 🎯 pretrained models/  
+│ └── best_model_pretrained_weights_deeplabv3.pth  
+│  
+├── LICENSE  
+├── README.md 
+└── requirements.txt
 ```
 
 ## 🎯 Problem-Solving Approach
