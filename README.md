@@ -30,7 +30,7 @@ This project develops a robust **semantic segmentation pipeline** for classifyin
 🌍 Language Note
 ----------------
 
-All **code comments and internal documentation** are written in **Italian**, as the project was developed during a group exam at the **University of Salerno (Italy)**.
+The **main report is in English**, but all **code comments and internal documentation** are written in **Italian**, as the project was developed during a group exam at the **University of Salerno (Italy)**.
 
 Despite this, the **codebase follows international best practices**, with clear method names and class structures that make it easily understandable for global developers and recruiters.
 
@@ -168,7 +168,36 @@ tqdm>=4.60.0
 -----------
 
 ```
-Decentralized Credential Management, Academic Credentials, Merkle Tree Credentials, Blockchain Revocation, Selective Disclosure, Privacy-Preserving Credentials, Secure Key Exchange Protocol, RSA & AES Encryption, Python Cryptography Project, Erasmus Credential Sharing, Certificate Revocation List Blockchain, Secure University Data Exchange, Project Work Algorithms and Protocols for Security, Cryptography-Based Credential System, Merkle Proof Verification, Student Credential Privacy, University of Salerno Project
+deep-learning
+computer-vision
+semantic-segmentation
+pytorch
+machine-learning
+artificial-intelligence
+deeplabv3
+resnet
+autonomous-vehicles
+image-segmentation
+neural-networks
+convolutional-neural-networks
+cnn
+transfer-learning
+data-augmentation
+class-imbalance
+model-optimization
+terrain-classification
+road-segmentation
+vehicle-navigation
+resnet101
+resnet50
+mobilenetv3
+aspp
+atrous-convolution
+backbone-networks
+encoder-decoder
+auxiliary-head
+dropout-regularization
+weighted-loss
 ```
 
 * * *
