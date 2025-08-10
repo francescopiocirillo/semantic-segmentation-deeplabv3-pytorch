@@ -5,7 +5,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Computer%20Vision-green.svg)]()
 
-> Advanced semantic segmentation system for autonomous vehicle navigation in rural environments using DeepLabV3 and custom optimization techniques.
+Advanced semantic segmentation system for autonomous vehicle navigation in rural environments using DeepLabV3 and custom optimization techniques.
+
+> Demonstrated expertise in designing, optimizing, and evaluating state-of-the-art deep learning models for computer vision with strong problem-solving and software engineering skills.
 
 ## 🎯 Overview
 
