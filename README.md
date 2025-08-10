@@ -75,6 +75,9 @@ Non-traversable Veg:     0.19 IoU (challenging class)
 ## 🗃️ Dataset: Yamaha-CMU Off-Road (YCOR) Dataset
 This project utilizes the **Yamaha-CMU Off-Road Dataset**, originally introduced by Maturana et al. (2017) in their seminal work *"Real-time Semantic Mapping for Autonomous Off-Road Navigation"*. The dataset consists of 1,076 images collected across four locations in Western Pennsylvania and Ohio, spanning three seasons with 8 semantic classes identical to our classification scheme.
 
+A glance of the dataset directly from [theairlab](https://theairlab.org/yamaha-offroad-dataset/)
+<img width="1693" height="674" alt="image" src="https://github.com/user-attachments/assets/82db2acf-0f35-4859-ac25-dbe218ee80cd" />
+
 ### Comparative Results vs. Original Research
 
 | Model | Architecture | mIoU | Key Strengths | Year |
