@@ -168,36 +168,7 @@ tqdm>=4.60.0
 -----------
 
 ```
-deep-learning
-computer-vision
-semantic-segmentation
-pytorch
-machine-learning
-artificial-intelligence
-deeplabv3
-resnet
-autonomous-vehicles
-image-segmentation
-neural-networks
-convolutional-neural-networks
-cnn
-transfer-learning
-data-augmentation
-class-imbalance
-model-optimization
-terrain-classification
-road-segmentation
-vehicle-navigation
-resnet101
-resnet50
-mobilenetv3
-aspp
-atrous-convolution
-backbone-networks
-encoder-decoder
-auxiliary-head
-dropout-regularization
-weighted-loss
+deep-learning, computer-vision, semantic-segmentation, pytorch, machine-learning, artificial-intelligence, deeplabv3, resnet, autonomous-vehicles, image-segmentation, neural-networks, convolutional-neural-networks, cnn, transfer-learning, data-augmentation, class-imbalance, model-optimization, terrain-classification, road-segmentation, vehicle-navigation, resnet101, resnet50, mobilenetv3, aspp, atrous-convolution, backbone-networks, encoder-decoder, auxiliary-head, dropout-regularization, weighted-loss
 ```
 
 * * *
